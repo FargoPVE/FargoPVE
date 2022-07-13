@@ -2,10 +2,9 @@
 
 <h1 align="center">Hi there, I'm <a href="" target="_blank">Vladislav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![codewars](https://www.codewars.com/users/FargoPVE/badges/large)](https://www.codewars.com/users/FargoPVE) 
+[![codewars](https://www.codewars.com/users/FargoPVE/badges/large)]
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FargoPVE&repo=codewars_solution_python)](https://github.com/anuraghazra/github-readme-stats)
-![c](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FargoPVE=solarized_dark)
-![c](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FargoPVE=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FargoPVE&theme=monokai)
