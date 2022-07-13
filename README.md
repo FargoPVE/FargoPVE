@@ -4,6 +4,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
-![codewars](https://www.codewars.com/users/FargoPVE/badges/large)](https://www.codewars.com/users/FargoPVE) 
+![codewars](https://www.codewars.com/users/FargoPVE/badges/large)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FargoPVE&repo=codewars_solution_python)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FargoPVE&theme=monokai)
