@@ -6,5 +6,4 @@
 
 [![codewars](https://www.codewars.com/users/FargoPVE/badges/large)](https://www.codewars.com/users/FargoPVE) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FargoPVE&theme=monokai)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
