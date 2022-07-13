@@ -6,5 +6,3 @@
 
 [![codewars](https://www.codewars.com/users/FargoPVE/badges/large)](https://www.codewars.com/users/FargoPVE) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FargoPVE&theme=monokai)
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
