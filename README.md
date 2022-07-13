@@ -4,4 +4,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
-:[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FargoPVE&theme=dark)](https://git.io/streak-stats):
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FargoPVE&theme=dark)](https://git.io/streak-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FargoPVE&repo=codewars_solution_python)](https://github.com/anuraghazra/github-readme-stats)
